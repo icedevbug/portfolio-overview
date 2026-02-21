@@ -109,14 +109,6 @@ Android app with web-based content management
 
 ---
 
-## 📫 Contact
-
-**Email:** icedevbug@gmail.com  
-**LinkedIn:** [linkedin.com/in/alejandro-corredor-parra](https://linkedin.com/in/alejandro-corredor-parra)  
-**Location:** Soacha, Cundinamarca, Colombia  
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icedevbug&show_icons=true&theme=default)
