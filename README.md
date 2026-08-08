@@ -1,118 +1,100 @@
-# portfolio-overview
-Backend Specialist - Healthcare &amp; Education Systems
-# Alejandro Corredor - Backend Specialist
+# Backend Developer — Business Systems
 
-> Systems development for healthcare and education sectors in LATAM
+**Alejandro Corredor**
+Desarrollo de sistemas web y backend para aplicaciones con procesos y reglas de negocio complejas.
 
-## 🎯 Specialization
+## Especialización
 
-I don't build generic CRUD apps. I solve problems in regulated industries:
+Me enfoco principalmente en:
 
-- 🏥 **Healthcare Systems:** RIPS compliance, medical procedures mapping, government integrations
-- 🎓 **Education Platforms:** Complex scheduling, multi-level grading, quality reporting
-- ⚙️ **Complex Architecture:** Business rules in PostgreSQL, state machines, validation engines
+* Sistemas administrativos y de gestión
+* Aplicaciones para educación y salud
+* Modelado de datos y reglas de negocio
+* APIs y servicios backend
+* Sistemas basados en PostgreSQL
 
-## 💼 Experience
+## Experiencia
 
-**8+ years** building backend systems  
-**4+ years** specialized in healthcare and education domains  
-**PostgreSQL architect** with expertise in triggers, functions, and complex business rules  
+* Desarrollo de software durante más de 8 años.
+* Experiencia en proyectos de educación, salud, administración y gestión.
+* Desarrollo de aplicaciones con **Node.js, Express y PostgreSQL**.
+* Diseño de bases de datos con múltiples relaciones, funciones, triggers y reglas de negocio.
 
-## 🚀 Featured Projects
+## Proyectos
 
-### [Dental Management System](./dental-management-system)
-Complete practice management for Colombian market with RIPS compliance
-- 118 CUPS medical procedures mapped
-- Automatic RIPS generation
-- Treatment plan conflict detection engine
+### Sistema de Gestión Odontológica
 
-**Tech:** Node.js, PostgreSQL, Vue.js/Quasar
+Aplicación para la gestión de consultorios y procesos odontológicos.
 
----
+* Gestión de pacientes y tratamientos
+* Procedimientos y planes de tratamiento
+* Manejo de información relacionada con RIPS
+* Integración de procedimientos CUPS
 
-### [School Management Platform](./school-management-platform)
-Academic management system for Colombian educational institutions
-- Academic scheduling algorithms
-- Multi-level grading system
-- Statistical quality reporting
-- Automated report card generation
+**Tecnologías:** Node.js, PostgreSQL, Vue.js, Quasar.
 
-**Tech:** Node.js, PostgreSQL, Quasar
+### Plataforma de Gestión Académica
 
----
+Sistema orientado a la gestión de procesos académicos.
 
-### [Sports Academy Management](./sports-academy-management)
-Team and player management system for football academies
-- Player performance tracking
-- Training session planning
-- Team strategy management
+* Gestión académica
+* Horarios
+* Calificaciones
+* Generación de reportes
 
-**Tech:** Node.js, PostgreSQL, Quasar
+**Tecnologías:** Node.js, PostgreSQL, Vue.js, Quasar.
 
----
+### Sistema para Academias Deportivas
 
-### [Hybrid Mobile App + CMS](./hybrid-mobile-cms)
-Android app with web-based content management
-- Audio streaming (radio)
-- Podcast player
-- Real-time chat
-- Web CMS for content updates
+Aplicación para administrar equipos y jugadores.
 
-**Tech:** Quasar + Capacitor, Node.js, PostgreSQL
+* Gestión de jugadores
+* Equipos y categorías
+* Entrenamientos
+* Seguimiento de información deportiva
 
----
+**Tecnologías:** Node.js, PostgreSQL, Vue.js, Quasar.
 
-## 🛠️ Technical Stack
+### Aplicación Móvil Híbrida + CMS
 
-**Backend:** Node.js + Express  
-**Database:** PostgreSQL (advanced: triggers, functions, views)  
-**Frontend:** Vue.js + Quasar (when needed)  
-**Architecture:** Clean separation, business logic in database layer  
+Aplicación Android acompañada de un sistema web para administrar contenidos.
 
-**Expertise:**
-- Complex domain modeling
-- RIPS/CIE-10/CUPS compliance (Colombia)
-- Business rule engines
-- State machine implementations
+* Radio y reproducción de audio
+* Podcasts
+* Chat
+* Administración de contenidos
 
----
+**Tecnologías:** Quasar, Capacitor, Node.js, PostgreSQL.
 
-## 🎯 What I Excel At
+## Tecnologías
 
-✅ Complex PostgreSQL architecture (50+ tables)  
-✅ Business rules in database layer  
-✅ Healthcare compliance systems  
-✅ Education platform development  
-✅ LATAM government integrations  
-✅ Domain-specific validation engines  
+**Backend:** Node.js, Express
+**Base de datos:** PostgreSQL
+**Frontend:** Vue.js, Quasar
+**Mobile:** Capacitor
+**Arquitectura:** MVC, separación de responsabilidades y lógica de negocio
 
-❌ What I don't do:
-- WordPress sites
-- Simple CRUD apps
-- Marketing websites
-- Frontend-heavy projects
+## Fortalezas
 
----
+* Diseño de bases de datos
+* Modelado de procesos de negocio
+* Desarrollo de APIs REST
+* PostgreSQL y SQL avanzado
+* Implementación de validaciones y reglas de negocio
+* Desarrollo de sistemas administrativos
+* Integración entre diferentes módulos y servicios
 
-## 💼 Availability
+## Disponibilidad
 
-**Status:** Open to part-time contracts  
-**Hours:** 20 hours/week  
-**Location:** Remote, GMT-5 (Colombia)  
-**Rate:** $40-60 USD/hour  
+**Modalidad:** Remoto
+**Dedicación:** Proyectos y contratos de medio tiempo
+**Ubicación:** Colombia (GMT-5)
 
-**Ideal for:**
-- Healthcare systems (medical records, compliance)
-- Education platforms (grading, scheduling)
-- Complex backend architecture
-- PostgreSQL-heavy projects
+### Busco proyectos relacionados con
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icedevbug&show_icons=true&theme=default)
-
----
-
-_Last updated: December 2024_
+* Backend y APIs
+* Sistemas administrativos
+* Sistemas educativos
+* Sistemas de salud
+* PostgreSQL
+* Aplicaciones con procesos de negocio complejos
