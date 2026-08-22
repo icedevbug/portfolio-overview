@@ -73,28 +73,3 @@ Aplicación Android acompañada de un sistema web para administrar contenidos.
 **Frontend:** Vue.js, Quasar
 **Mobile:** Capacitor
 **Arquitectura:** MVC, separación de responsabilidades y lógica de negocio
-
-## Fortalezas
-
-* Diseño de bases de datos
-* Modelado de procesos de negocio
-* Desarrollo de APIs REST
-* PostgreSQL y SQL avanzado
-* Implementación de validaciones y reglas de negocio
-* Desarrollo de sistemas administrativos
-* Integración entre diferentes módulos y servicios
-
-## Disponibilidad
-
-**Modalidad:** Remoto
-**Dedicación:** Proyectos y contratos de medio tiempo
-**Ubicación:** Colombia (GMT-5)
-
-### Busco proyectos relacionados con
-
-* Backend y APIs
-* Sistemas administrativos
-* Sistemas educativos
-* Sistemas de salud
-* PostgreSQL
-* Aplicaciones con procesos de negocio complejos
